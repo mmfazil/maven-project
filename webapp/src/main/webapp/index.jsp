@@ -1,1 +1,1 @@
-WELCOME ALL for CI and CD
+My first commit, welcome to CICD
